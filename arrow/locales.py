@@ -3854,7 +3854,7 @@ class ThaiLocale(Locale):
     timeframes = {
         "now": "ขณะนี้",
         "second": "วินาที",
-        "seconds": "{0} ไม่กี่วินาที",
+        "seconds": "{0} วินาที",
         "minute": "1 นาที",
         "minutes": "{0} นาที",
         "hour": "1 ชั่วโมง",
